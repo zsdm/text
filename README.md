@@ -1,6 +1,6 @@
 # text
 #include <cstdio>
-using namespace std;
+using namespace zht;
  
     int array[9][9];
     bool isIn(int n,int x,int y,int m){
